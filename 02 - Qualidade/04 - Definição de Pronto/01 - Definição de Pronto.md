@@ -1,0 +1,1 @@
+Uma funcionalidade só pode ser considerada pronta se ela atender aos critérios que foram estabelecidos, e deve ser genérico para todas as funcionalidades. Um sistema pequeno pode ter essa definição de forma diferente para um sistema maior. Isso alinha as expectativas de todo o time de desenvolvimento.

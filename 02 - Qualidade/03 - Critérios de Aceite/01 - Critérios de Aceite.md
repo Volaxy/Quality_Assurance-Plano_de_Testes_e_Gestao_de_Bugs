@@ -1,0 +1,1 @@
+Para uma funcionalidade ser considerada aceitável, ela deve estar alinhada com os requisitos funcionais e não funcionais, como, tela redimensionável, ser acessível, ter um certo tamanho dos inputs e botões, etc. Cada funcionalidade pode ter diferentes critérios de aceite.
