@@ -79,3 +79,15 @@ URL do curso -> [Quality Assurance - Plano de Testes e Gestão de Bugs](https://
 
 ### 03 - Testes Não-Funcionais
 * O que são testes não funcionais.
+
+***
+
+## 04 - Pirâmide de Testes &#x1F516;
+* O **teste de caixa branca** é usado para testar um sistema de software com base na sua arquitetura. Esse tipo de abordagem serve para testar cada módulo do sistema de acordo com seu código. Pode ser feito pelos próprios desenvolvedores ou QAs técnicos que entendam da estrutura do projeto. Um exemplo de testes de caixa branca são: teste unitário, de integração de módulos e de serviço (API).
+* O **teste de caixa preta** é usado para testar a funcionalidade do sistema, independentemente de seu código. Seu objetivo principal é garantir que os requisitos sejam atendidos. Por exemplo: testes funcionais e regressivos.
+* A pirâmide de testes é importante porque define níveis de testes e nos dá um norte quanto à quantidade de testes necessários em cada um dos níveis. No topo, temos os testes de ponta a ponta, no meio, teste de integração e na base, testes de unidade. Precisamos lembrar que a base da pirâmide compreende testes mais fáceis e rápidos para executar, enquanto o topo, mais difíceis e lentos.
+* **Evidência de testes** são imagens e/ou vídeos que comprovam que um determinado teste foi executado e o resultado esperado foi obtido. Podem ser screenshots de uma determinada tela ou o vídeo de um software em funcionamento. São importantes para documentar os testes realizados, servindo de insumos e métricas.
+
+### 01 - Testes de Caixa Branca vs Testes de Caixa Preta
+* O que são **testes de caixa branca** e sua variações.
+* O que são **testes de caixa preta**.
