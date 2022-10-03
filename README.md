@@ -91,3 +91,20 @@ URL do curso -> [Quality Assurance - Plano de Testes e Gestão de Bugs](https://
 ### 01 - Testes de Caixa Branca vs Testes de Caixa Preta
 * O que são **testes de caixa branca** e sua variações.
 * O que são **testes de caixa preta**.
+
+***
+
+## 05 - Gestão de Erros &#x1F516;
+* Que um **bug** é tudo que acontece no sistema diferentemente do que foi especificado como o ideal. Um **defeito** é um erro encontrado num código ou num documento e uma **falha** é o resultado ou manifestação de um ou mais defeitos.
+* Que ao encontrar um bug é importante reportá-lo imediatamente, reproduzir o bug ao menos três vezes e testar a ocorrência dele em outras plataformas e módulos similares.
+* Que o custo de corrigir um bug é muito maior do que criar mecanismos para evitá-los, então devemos prevenir bugs nos atentando ao sistema desde sua documentação.
+* O reporte de bugs consiste em descrever bem o bug de forma precisa a fim que todo o time consiga reproduzi-lo.
+* Classificamos bugs no sistema por severidade. Então, eles se dividem em: blockers (que bloqueiam nossos testes), críticos e graves, moderados e pequenos. Especificamos a severidade no nosso plano de teste, considerando o impacto deles no sistema.
+
+### 01 - Reportando Bugs
+* Categorias para se classificar os bugs.
+* Como reportar os bugs.
+
+### 02 - Classificação dos Bugs
+* Classificação dos bugs.
+* Prioridade dos bugs.
