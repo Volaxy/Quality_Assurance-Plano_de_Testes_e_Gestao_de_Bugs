@@ -1,0 +1,1 @@
+Um teste de performace pode ser um teste não funcional.

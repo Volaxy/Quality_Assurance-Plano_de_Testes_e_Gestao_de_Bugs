@@ -1,0 +1,3 @@
+O **teste de regressão** especifica que a nova funcionalidade, junto com as demais que estão diretamente relacionadas é são recomendadas para se ter um teste.
+O **teste de fumaça** testa somente a nova funcionalidade que foi implementada no sistema, sem testar as demais que estão relacionadas.
+O **teste de sanidade** testa a nova funcionalidade em um cenário perfeito (tela de login efetuando login com sucesso por exemplo), para verificar se a lógica principal do recurso está funcionando corretamente, podem ser feitos com testes automatizados.

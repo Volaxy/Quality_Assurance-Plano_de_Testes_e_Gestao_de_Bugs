@@ -11,7 +11,7 @@ URL do curso -> [Quality Assurance - Plano de Testes e Gestão de Bugs](https://
 ![Quality Assurance - Plano de Testes e Gestão de Bugs](https://www.alura.com.br/assets/api/share/curso-quality-assurance-plano-testes-gestao-bugs.png)
 
 ## Links Úteis &#x1F517;
-*
+* [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en-US) - Extensão do Google para medir / testar a qualidade do site.
 
 ## Siglas &#x1F5FA;
 * **QA** - ***Q**uality* ***A**ssurance* - Garantia de qualidade.
@@ -54,3 +54,28 @@ URL do curso -> [Quality Assurance - Plano de Testes e Gestão de Bugs](https://
 
 ### 04 - Definição de Pronto
 * Quando um software / funcionalideade pode ser considerado pronto.
+
+***
+
+## 03 - Aprofundando nos Tipos Testes &#x1F516;
+* **Teste de regressão**: é uma técnica de teste a ser aplicada quando surgem novas versões mais recentes do software e garante que não surjam novos defeitos em componentes já analisados.
+* **Teste de sanidade**: é o subconjunto do teste de regressão e também é realizado quando não temos tempo suficiente para fazer o teste mais elaborado. Ele tem um nível superficial e verifica se as funcionalidades mais críticas do sistema estão conforme o esperado.
+* **Testes de limite**: consistem em testar os valores mínimo e máximo (ou primeiro e último valores) de uma partição. Essa técnica é geralmente usada para testar requisitos que exigem um intervalo de números (incluindo datas e horas).
+* **Teste de transição**: de estados é utilizado para testar a capacidade que o software tem de entrar em e sair de estados definidos através de transições válidas e inválidas.
+* **Testes não-funcionais**: tem como objetivo testar aspectos do software que não são associados a funcionalidades. Ex: escalabilidade, desempenho, segurança.
+* **Testes de performance**: são um conjunto de testes que visam analisar o desempenho. Entre eles, temos.
+* **Teste de carga**: que tem como objetivo verificar o desempenho de um sistema quando ele é submetido a cargas variáveis de usuários ou transações.
+* **Teste de capacidade**: parecido com o de carga, tem como objetivo identificar os limites da aplicação, ou seja, quantos usuários simultâneos ou chamadas por segundo a aplicação é capaz de suportar dentro dos parâmetros de qualidade definidos.
+* **Teste de stress**: verifica a performance de um sistema quando é submetido a cargas que estão no limite ou acima do limite especificado inicialmente.
+* **Teste de usabilidade**: tem como objetivo observar usuários reais usando o software para descobrir problemas e pontos de melhorias.
+
+### 01 - Teste Relacionado a Mudança
+* Ajustar o que deve ser testado.
+
+### 02 - Mais Técnicas de Teste
+* O que é o **teste de limite**.
+* O que é **teste de estado**.
+* O que é **teste exploratório**.
+
+### 03 - Testes Não-Funcionais
+* O que são testes não funcionais.

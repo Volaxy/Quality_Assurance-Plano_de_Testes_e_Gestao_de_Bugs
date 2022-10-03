@@ -1,0 +1,3 @@
+O **teste de limite** consiste em se testar o valor mínimo e o valor máximo de uma entrada de dados.
+O **teste de estado** consiste em testar a mudança de estado de uma determinada coisa quando um tipo de evento acontecer.
+ O **teste exploratório** é um teste dedicado ao conhecimento geral do sistema, clicando e verificando cada uma das funcionalidades de forma rápida. Este teste não precisa de uma especificação, além de dar a facilidade de identificar algum erro de acessibilidade ou UX.
