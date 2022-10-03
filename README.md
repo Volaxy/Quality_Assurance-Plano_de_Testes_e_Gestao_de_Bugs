@@ -108,3 +108,8 @@ URL do curso -> [Quality Assurance - Plano de Testes e Gestão de Bugs](https://
 ### 02 - Classificação dos Bugs
 * Classificação dos bugs.
 * Prioridade dos bugs.
+
+***
+
+## 06 - Estratégia de Teste &#x1F516;
+* Como é feita a arquitetura dos testes.
