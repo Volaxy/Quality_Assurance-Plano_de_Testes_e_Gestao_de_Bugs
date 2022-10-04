@@ -112,4 +112,19 @@ URL do curso -> [Quality Assurance - Plano de Testes e Gestão de Bugs](https://
 ***
 
 ## 06 - Estratégia de Teste &#x1F516;
-* Como é feita a arquitetura dos testes.
+* A arquitetura de um sistema consiste na definição dos componentes, suas propriedades e seus relacionamentos com outros softwares. A documentação da arquitetura do software facilita a comunicação entre os membros dos times, pois registra as decisões iniciais acerca do projeto.
+* Temos que definir um **escopo de testes**, já que nem todos os testes serão responsabilidade da pessoa de QA.
+* Constrói-se um escopo respondendo a perguntas importantes como: o que ele deixa de fora? Quais níveis de teste vão ser executados? De quem será a responsabilidade de cada teste? Haverá testes automatizados? Quais serão as ferramentas usadas e como será feito o lançamento desse sistema.
+
+***
+
+## 07 - Refinamentos e Conclusões &#x1F516;
+* Para criar uma **estimativa** para seus testes é preciso considerar fatores como a **complexidade**, **domínio do software**, **detalhamento da documentação** e **quantidade de retrabalho**.
+* É importante metrificar a qualidade do sistema para saber em quais pontos acertamos em quais precisamos implementar melhorias.
+* Existem métricas de qualidade como: total de Defeitos, total de defeitos em produção, total de defeitos removidos, tempo médio de reparo, quantidade de testes automatizados, cobertura de código e satisfação do usuário.
+
+### 01 - Estimativa de Testes
+* Critérios para se estimar o tempo de teste.
+
+### 02 - Métricas de Qualidade
+* Critérios para definir a qualidade do software feito.
